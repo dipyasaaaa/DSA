@@ -1,2 +1,1 @@
-##hiii
-my singly linked list practice codes till now!
+ singly linked list practice codes 
