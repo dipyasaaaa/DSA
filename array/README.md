@@ -1,1 +1,1 @@
-my practice programs related to arrays
+practice programs related to arrays
