@@ -29,10 +29,10 @@ int main(){
     int ch=0;
     int n=0;
     char c='Y';
-    cout<<"enter the number of elements in the array:"<<endl;
+    cout<<"enter the number of elements in the array:"<<" ";
     cin>>n;
     for(i=0;i<n;i++){
-        cout<<"enter the element "<<i<<":"<<" ";
+        cout<<"enter the element "<<i+1<<":"<<" ";
         cin>>arr[i];
     }
     while(c=='Y'||c=='y'){
